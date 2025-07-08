@@ -1,6 +1,5 @@
 streamlit
 pandas
 openpyxl
-folium
+folium>=0.14.0
 streamlit-folium
-os
